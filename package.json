@@ -1,0 +1,25 @@
+{
+  "name": "liribot",
+  "version": "1.0.0",
+  "description": "homework node app with api keys",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markchiang1/liriBot.git"
+  },
+  "author": "Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markchiang1/liriBot/issues"
+  },
+  "homepage": "https://github.com/markchiang1/liriBot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.85.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
